@@ -8,7 +8,7 @@
 - Arduino IDE
 - Python 3 (and `pip`)
 ### Steps
-*A  quick note: if you want to use a pre-built release, you will need to flash your Arduino, but skip the part after that. Instead, go to the Releases page (on GitHub) and download the latest release from their. Go to `/dist/main/` and run `main.exe` with the COM port of your Arduino as the argument after the filename (e.g. `main.exe COM10`*  
+*A  quick note: if you want to use a pre-built release, you will need to flash your Arduino, but skip the part after that. Instead, go to the Releases page (on GitHub) and download the latest release from there. Go to `/dist/main/` and run `main.exe` with the COM port of your Arduino as the argument after the filename (e.g. `main.exe COM10`*)  
 Build this circuit:  
 <img src="./Untitled Sketch_bb.svg">  
 Once you have build the circuit, open the Arduino IDE, and flash the `SerialLEDMoniter.ino` sketch to the Arduino (remember to select the port!).  
