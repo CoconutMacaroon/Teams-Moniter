@@ -4,6 +4,7 @@
 - One LED
 - One 220 ohm resistor (for the LED)
 - One breadboard
+- Two breadboard wires (I reccomend red and black)
 ### Software
 - Arduino IDE
 - Python 3 (and `pip`)
