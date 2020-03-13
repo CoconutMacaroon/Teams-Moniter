@@ -1,4 +1,4 @@
-# Teams Moniter
+# Teams Monitor
 ### Materials
 - Arduino (I used a Micro)
 - One LED
