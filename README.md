@@ -9,6 +9,7 @@
 - Arduino IDE
 - Python 3 (and `pip`)
 ### Steps
+Run the command `pip install pyserial`. That will install the library that Python uses to talk to your Arduino.  
 *A  quick note: if you want to use a pre-built release, you will need to flash your Arduino, but skip the part after that. Instead, go to the Releases page (on GitHub) and download the latest release from there. Go to `/dist/main/` and run `main.exe` with the COM port of your Arduino as the argument after the filename (e.g. `main.exe COM10`*)  
 Build this circuit:  
 <img src="./Untitled Sketch_bb.svg">  
