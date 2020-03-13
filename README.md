@@ -1,3 +1,12 @@
 # Teams Moniter
-A program that detects if you're using Microsoft Teams, and turns on a light if you are.  
-Flash your Arduino (I used a Micro) with the Arduino sketch. Connect an LED (with resistor) between pin two and GND. Run the Python program. It takes a few seconds to toggle the LED.
+### Materials
+- Arduino (I used a Micro)
+- One LED
+- One 220 ohm resistor (for the LED)
+- One breadboard
+### Software
+- Arduino IDE
+- Python 3 (and `pip`)
+### Steps
+Build this circuit:
+<img src="./Untitled Sketch_bb.svg">
