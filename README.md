@@ -15,3 +15,5 @@ Build this circuit:
 <img src="./Untitled Sketch_bb.svg">  
 Once you have build the circuit, open the Arduino IDE, and flash the `SerialLEDMoniter.ino` sketch to the Arduino (remember to select the port!).  
 In a CMD (or `bash`) shell, run `pip install pyinstaller`. Next, compile the Python script by going to the `Teams-Moniter` folder and running `pyinstaller main.py`. This will convert the script to an `exe` that you can run. Once it is done, go to `Teams-Moniter/dist/main/` and run `main.exe` with the COM port of the Arduino as the first argument (e.g. `main.exe COM10`).
+### Helping Out
+If something isn't working right, create an issue. Also, if you get an error, please report it as an issue, because other people will probobly also be getting said error.
