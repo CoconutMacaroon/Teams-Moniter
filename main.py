@@ -8,7 +8,7 @@ except IndexError:
     print("Include the desired COM port as the first argument")
     exit(7)
 while True:
-    if "Teams" in str(GetWindowText(GetForegroundWindow())):
+    if "Microsoft Teams" in str(GetWindowText(GetForegroundWindow())):
         ser.write(b"1")
     else:
         ser.write(b"0")

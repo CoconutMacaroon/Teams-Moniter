@@ -16,5 +16,6 @@ setup(
     options = options,
     version = "1.0",
     description = 'A Microsoft Teams moniter',
+     install_requires=['pyserial'],
     executables = executables
 )
