@@ -2,7 +2,7 @@
 ### Materials
 - Arduino (I used a Micro)
 - One LED
-- One 220 ohm resistor (for the LED)
+- One 220 Ω resistor (for the LED)
 - One breadboard
 - Two breadboard wires (I reccomend red and black)
 ### Software
